@@ -1,6 +1,6 @@
 # securekeys #
 
-- Having problems typing secure passwords because the random letters simply don't make sense?
+- Having problems typing secure passwords because the seemingly random letters simply don't make sense?
 
 - You hate it when people look at your finger movements to snoop your facebook password?
 
@@ -28,26 +28,26 @@
 
 - Securekeys is also available as Securekeys+PRO under a GPL license for business use: please ask for a personalized quote
 
-- Securekeys does NOT require XFree86 to work, nor works with XOrg!
+- Securekeys does NOT require XFree86 to work, nor works with XOrg it is confidently console-only!
 
 
 *Use securekeys today and experience its amazing features - you will wonder how you ever lived without it*
 
-*Special promotion: Write a testimonial and make a chance to win a free upgrade to SecurekeysXR - which implements ROT26 compliant double-ROT13 encryption for truely unnoticable encription*
+*Special promotion: Write a testimonial and make a chance to win a free upgrade to SecurekeysXR - which implements ROT26 compliant double-ROT13 encryption for truely unnoticable encryption*
 
 
 
 # Recommended minimum system requirements: #
 
-2 Ghz core2duo processor or above
-1024 MB ram
-linux (kernel 3.6 or above)
-5Gb Free hard disk space to install
-2Gb additional hard disk space
-Cherry 102 key US-international QWERTY keyboard
-1200 dpi mouse
-Teletype Model 28 RO printer
-virtual console
+- 2 Ghz core2duo processor or above
+- 1024 MB ram
+- linux (kernel 3.6 or above)
+- 5Gb Free hard disk space to install
+- 2Gb additional hard disk space
+- Cherry 102 key US-international QWERTY keyboard
+- 1200 dpi mouse
+- Teletype Model 28 RO printer
+- virtual console
 
 
 # Installation #
@@ -58,14 +58,11 @@ virtual console
 
 
 # Use #
-- To start using securekeys, change to the virtual console of you choice (E.G. <CTRL><ALT><F1>) and execute (as root):
-	loadkeys ~/ROT13.keymap
-- after starting, type anything plaintext on the virtual console and it will automatically be ROT 13 encrypted
-- after starting, type anything ROT13 encrypted on the virtual console and it will automatically be decrypted
-
-- To stop using securekeys execute the following ROT13 encrypted command from a virtual console (as root):
-	ybnqxrlf ~/EBG26.xrlznc
-- after stoping, your virtual console keyboard input will no longer be secured through the amazing securekeys technology
+- To start using securekeys, change to the virtual console of you choice (E.G. <CTRL><ALT><F1>) and execute (as root): loadkeys ~/ROT13.keymap
+-- after starting, type anything plaintext on the virtual console and it will automatically be ROT13 encrypted
+-- after starting, type anything ROT13 encrypted on the virtual console and it will automatically be decrypted
+- To stop using securekeys execute the following ROT13 encrypted command from a virtual console (as root): ybnqxrlf ~/EBG26.xrlznc
+-- after stoping, your virtual console keyboard input will no longer be secured through the amazing securekeys technology
 	
 
 
