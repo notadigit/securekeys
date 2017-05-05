@@ -41,9 +41,9 @@
 
 - 2 Ghz core2duo processor or above
 - 1024 MB ram
-- linux (kernel 3.6 or above)
-- 5Gb Free hard disk space to install
-- 2Gb additional hard disk space
+- Linux (kernel 3.6 or above)
+- 5Gb Free hard disk space to install Securekeys
+- 2Gb Additional hard disk space
 - Cherry 102 key US-international QWERTY keyboard
 - 1200 dpi mouse
 - Teletype Model 28 RO printer
@@ -58,11 +58,11 @@
 
 
 # Use #
-- To start using securekeys, change to the virtual console of you choice (E.G. <CTRL><ALT><F1>) and execute (as root): loadkeys ~/ROT13.keymap
+- To start using Securekeys, change to the virtual console of you choice (E.G. CTRL-ALT-F1) and execute (as root): loadkeys ~/ROT13.keymap
 -- after starting, type anything plaintext on the virtual console and it will automatically be ROT13 encrypted
 -- after starting, type anything ROT13 encrypted on the virtual console and it will automatically be decrypted
-- To stop using securekeys execute the following ROT13 encrypted command from a virtual console (as root): ybnqxrlf ~/EBG26.xrlznc
--- after stoping, your virtual console keyboard input will no longer be secured through the amazing securekeys technology
+- To stop using Securekeys execute the following ROT13 encrypted command from a virtual console (as root): ybnqxrlf ~/EBG26.xrlznc
+-- after stopping, your virtual console keyboard input will no longer be secured through the amazing Securekeys technology
 	
 
 
